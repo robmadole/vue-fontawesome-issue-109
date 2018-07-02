@@ -2,27 +2,26 @@ import Vue from 'vue'
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 
-// 111 KiB build
-import { faCog } from '@fortawesome/free-solid-svg-icons/faCog'
-import { faInfo } from '@fortawesome/free-solid-svg-icons/faInfo'
-import { faSearch } from '@fortawesome/free-solid-svg-icons/faSearch'
-import { faSignInAlt } from '@fortawesome/free-solid-svg-icons/faSignInAlt'
-import { faSignOutAlt } from '@fortawesome/free-solid-svg-icons/faSignOutAlt'
-import { faSort } from '@fortawesome/free-solid-svg-icons/faSort'
-import { faSpinner } from '@fortawesome/free-solid-svg-icons/faSpinner'
-import { faUser } from '@fortawesome/free-solid-svg-icons/faUser'
+//  DONE  Compiled successfully in 4840ms                                                                                                                                                                                                                09:31:59
 
-// 585 KiB build
-// import {
-//   faCog,
-//   faInfo,
-//   faSearch,
-//   faSignInAlt,
-//   faSignOutAlt,
-//   faSort,
-//   faSpinner,
-//   faUser
-// } from '@fortawesome/free-solid-svg-icons'
+//  File                                 Size               Gzipped
+//
+//  dist/js/chunk-vendors.4b1e3049.js    116.94 kb          40.85 kb
+//  dist/js/app.1828223d.js              2.01 kb            1.03 kb
+//
+//  Images and other types of assets omitted.
+//
+// DONE  Build complete. The dist directory is ready to be deployed.
+import {
+  faCog,
+  faInfo,
+  faSearch,
+  faSignInAlt,
+  faSignOutAlt,
+  faSort,
+  faSpinner,
+  faUser
+} from '@fortawesome/free-solid-svg-icons'
 
 import App from './App'
 
